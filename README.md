@@ -15,3 +15,5 @@ Base que o programa deve seguir:
 | **PessoaFisica (herda Cliente)** | `cpf: str`, `nome: str`, `data_nascimento: date`                                          | -                                                                            | Cliente pessoa física                          |
 
 *OBS: desenvolvido utilizando a linguagem Python (versão 3.13.2) e na IDE VSCODE;
+
+*IMPORTANTE 🚨🚨🚨🚨🚨 PARA QUE O PROGRAMA RODE DE FORMA CORRETA, O ARQUIVO app.py DEVE SER INICIALIZADO. Este arquivo tem todos os dados linkados do outro arquivo (main.py).
